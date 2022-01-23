@@ -1,6 +1,6 @@
 {
-    "name": "Budget App",
-    "short_name": "Budget App",
+    "name": "budget engine",
+    "short_name": "budget engine",
     "icons": [
       {
         "src": "icons/icon-72x72.png",
